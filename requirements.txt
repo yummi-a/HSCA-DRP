@@ -1,0 +1,7 @@
+numpy==2.2.6
+torch==2.9.0
+pandas==2.3.2
+scikit-learn==1.7.1
+scipy==1.13.1
+tqdm==4.67.1
+rdkit==2025.09.1
